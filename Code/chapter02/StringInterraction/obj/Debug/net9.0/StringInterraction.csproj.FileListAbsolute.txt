@@ -1,0 +1,14 @@
+D:\fpt ki5\PRN212\src mays\PRN212_SE1852\StringInterraction\bin\Debug\net9.0\StringInterraction.exe
+D:\fpt ki5\PRN212\src mays\PRN212_SE1852\StringInterraction\bin\Debug\net9.0\StringInterraction.deps.json
+D:\fpt ki5\PRN212\src mays\PRN212_SE1852\StringInterraction\bin\Debug\net9.0\StringInterraction.runtimeconfig.json
+D:\fpt ki5\PRN212\src mays\PRN212_SE1852\StringInterraction\bin\Debug\net9.0\StringInterraction.dll
+D:\fpt ki5\PRN212\src mays\PRN212_SE1852\StringInterraction\bin\Debug\net9.0\StringInterraction.pdb
+D:\fpt ki5\PRN212\src mays\PRN212_SE1852\StringInterraction\obj\Debug\net9.0\StringInterraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\fpt ki5\PRN212\src mays\PRN212_SE1852\StringInterraction\obj\Debug\net9.0\StringInterraction.AssemblyInfoInputs.cache
+D:\fpt ki5\PRN212\src mays\PRN212_SE1852\StringInterraction\obj\Debug\net9.0\StringInterraction.AssemblyInfo.cs
+D:\fpt ki5\PRN212\src mays\PRN212_SE1852\StringInterraction\obj\Debug\net9.0\StringInterraction.csproj.CoreCompileInputs.cache
+D:\fpt ki5\PRN212\src mays\PRN212_SE1852\StringInterraction\obj\Debug\net9.0\StringInterraction.dll
+D:\fpt ki5\PRN212\src mays\PRN212_SE1852\StringInterraction\obj\Debug\net9.0\refint\StringInterraction.dll
+D:\fpt ki5\PRN212\src mays\PRN212_SE1852\StringInterraction\obj\Debug\net9.0\StringInterraction.pdb
+D:\fpt ki5\PRN212\src mays\PRN212_SE1852\StringInterraction\obj\Debug\net9.0\StringInterraction.genruntimeconfig.cache
+D:\fpt ki5\PRN212\src mays\PRN212_SE1852\StringInterraction\obj\Debug\net9.0\ref\StringInterraction.dll
