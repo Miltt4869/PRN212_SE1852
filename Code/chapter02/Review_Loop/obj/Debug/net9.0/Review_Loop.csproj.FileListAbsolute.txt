@@ -1,0 +1,14 @@
+D:\fpt ki5\PRN212\src mays\PRN212_SE1852\Review_Loop\bin\Debug\net9.0\Review_Loop.exe
+D:\fpt ki5\PRN212\src mays\PRN212_SE1852\Review_Loop\bin\Debug\net9.0\Review_Loop.deps.json
+D:\fpt ki5\PRN212\src mays\PRN212_SE1852\Review_Loop\bin\Debug\net9.0\Review_Loop.runtimeconfig.json
+D:\fpt ki5\PRN212\src mays\PRN212_SE1852\Review_Loop\bin\Debug\net9.0\Review_Loop.dll
+D:\fpt ki5\PRN212\src mays\PRN212_SE1852\Review_Loop\bin\Debug\net9.0\Review_Loop.pdb
+D:\fpt ki5\PRN212\src mays\PRN212_SE1852\Review_Loop\obj\Debug\net9.0\Review_Loop.GeneratedMSBuildEditorConfig.editorconfig
+D:\fpt ki5\PRN212\src mays\PRN212_SE1852\Review_Loop\obj\Debug\net9.0\Review_Loop.AssemblyInfoInputs.cache
+D:\fpt ki5\PRN212\src mays\PRN212_SE1852\Review_Loop\obj\Debug\net9.0\Review_Loop.AssemblyInfo.cs
+D:\fpt ki5\PRN212\src mays\PRN212_SE1852\Review_Loop\obj\Debug\net9.0\Review_Loop.csproj.CoreCompileInputs.cache
+D:\fpt ki5\PRN212\src mays\PRN212_SE1852\Review_Loop\obj\Debug\net9.0\Review_Loop.dll
+D:\fpt ki5\PRN212\src mays\PRN212_SE1852\Review_Loop\obj\Debug\net9.0\refint\Review_Loop.dll
+D:\fpt ki5\PRN212\src mays\PRN212_SE1852\Review_Loop\obj\Debug\net9.0\Review_Loop.pdb
+D:\fpt ki5\PRN212\src mays\PRN212_SE1852\Review_Loop\obj\Debug\net9.0\Review_Loop.genruntimeconfig.cache
+D:\fpt ki5\PRN212\src mays\PRN212_SE1852\Review_Loop\obj\Debug\net9.0\ref\Review_Loop.dll

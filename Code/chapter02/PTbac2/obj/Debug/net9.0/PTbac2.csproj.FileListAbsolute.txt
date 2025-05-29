@@ -1,0 +1,14 @@
+D:\fpt ki5\PRN212\src mays\PRN212_SE1852\PTbac2\bin\Debug\net9.0\PTbac2.exe
+D:\fpt ki5\PRN212\src mays\PRN212_SE1852\PTbac2\bin\Debug\net9.0\PTbac2.deps.json
+D:\fpt ki5\PRN212\src mays\PRN212_SE1852\PTbac2\bin\Debug\net9.0\PTbac2.runtimeconfig.json
+D:\fpt ki5\PRN212\src mays\PRN212_SE1852\PTbac2\bin\Debug\net9.0\PTbac2.dll
+D:\fpt ki5\PRN212\src mays\PRN212_SE1852\PTbac2\bin\Debug\net9.0\PTbac2.pdb
+D:\fpt ki5\PRN212\src mays\PRN212_SE1852\PTbac2\obj\Debug\net9.0\PTbac2.GeneratedMSBuildEditorConfig.editorconfig
+D:\fpt ki5\PRN212\src mays\PRN212_SE1852\PTbac2\obj\Debug\net9.0\PTbac2.AssemblyInfoInputs.cache
+D:\fpt ki5\PRN212\src mays\PRN212_SE1852\PTbac2\obj\Debug\net9.0\PTbac2.AssemblyInfo.cs
+D:\fpt ki5\PRN212\src mays\PRN212_SE1852\PTbac2\obj\Debug\net9.0\PTbac2.csproj.CoreCompileInputs.cache
+D:\fpt ki5\PRN212\src mays\PRN212_SE1852\PTbac2\obj\Debug\net9.0\PTbac2.dll
+D:\fpt ki5\PRN212\src mays\PRN212_SE1852\PTbac2\obj\Debug\net9.0\refint\PTbac2.dll
+D:\fpt ki5\PRN212\src mays\PRN212_SE1852\PTbac2\obj\Debug\net9.0\PTbac2.pdb
+D:\fpt ki5\PRN212\src mays\PRN212_SE1852\PTbac2\obj\Debug\net9.0\PTbac2.genruntimeconfig.cache
+D:\fpt ki5\PRN212\src mays\PRN212_SE1852\PTbac2\obj\Debug\net9.0\ref\PTbac2.dll
