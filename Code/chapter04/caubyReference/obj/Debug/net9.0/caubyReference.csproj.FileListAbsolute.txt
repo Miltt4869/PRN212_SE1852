@@ -1,0 +1,14 @@
+D:\fpt ki5\PRN212\src mays\PRN212_SE1852\caubyReference\bin\Debug\net9.0\caubyReference.exe
+D:\fpt ki5\PRN212\src mays\PRN212_SE1852\caubyReference\bin\Debug\net9.0\caubyReference.deps.json
+D:\fpt ki5\PRN212\src mays\PRN212_SE1852\caubyReference\bin\Debug\net9.0\caubyReference.runtimeconfig.json
+D:\fpt ki5\PRN212\src mays\PRN212_SE1852\caubyReference\bin\Debug\net9.0\caubyReference.dll
+D:\fpt ki5\PRN212\src mays\PRN212_SE1852\caubyReference\bin\Debug\net9.0\caubyReference.pdb
+D:\fpt ki5\PRN212\src mays\PRN212_SE1852\caubyReference\obj\Debug\net9.0\caubyReference.GeneratedMSBuildEditorConfig.editorconfig
+D:\fpt ki5\PRN212\src mays\PRN212_SE1852\caubyReference\obj\Debug\net9.0\caubyReference.AssemblyInfoInputs.cache
+D:\fpt ki5\PRN212\src mays\PRN212_SE1852\caubyReference\obj\Debug\net9.0\caubyReference.AssemblyInfo.cs
+D:\fpt ki5\PRN212\src mays\PRN212_SE1852\caubyReference\obj\Debug\net9.0\caubyReference.csproj.CoreCompileInputs.cache
+D:\fpt ki5\PRN212\src mays\PRN212_SE1852\caubyReference\obj\Debug\net9.0\caubyReference.dll
+D:\fpt ki5\PRN212\src mays\PRN212_SE1852\caubyReference\obj\Debug\net9.0\refint\caubyReference.dll
+D:\fpt ki5\PRN212\src mays\PRN212_SE1852\caubyReference\obj\Debug\net9.0\caubyReference.pdb
+D:\fpt ki5\PRN212\src mays\PRN212_SE1852\caubyReference\obj\Debug\net9.0\caubyReference.genruntimeconfig.cache
+D:\fpt ki5\PRN212\src mays\PRN212_SE1852\caubyReference\obj\Debug\net9.0\ref\caubyReference.dll
