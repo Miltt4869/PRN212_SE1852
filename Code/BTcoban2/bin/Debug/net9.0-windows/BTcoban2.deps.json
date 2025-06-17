@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "BTcoban2/1.0.0": {
+        "runtime": {
+          "BTcoban2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BTcoban2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
