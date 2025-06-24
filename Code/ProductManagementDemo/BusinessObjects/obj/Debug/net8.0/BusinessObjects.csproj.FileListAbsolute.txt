@@ -1,0 +1,11 @@
+D:\download D\ProductManagementDemo\ProductManagementDemo\BusinessObjects\bin\Debug\net8.0\BusinessObjects.deps.json
+D:\download D\ProductManagementDemo\ProductManagementDemo\BusinessObjects\bin\Debug\net8.0\BusinessObjects.dll
+D:\download D\ProductManagementDemo\ProductManagementDemo\BusinessObjects\bin\Debug\net8.0\BusinessObjects.pdb
+D:\download D\ProductManagementDemo\ProductManagementDemo\BusinessObjects\obj\Debug\net8.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\download D\ProductManagementDemo\ProductManagementDemo\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfoInputs.cache
+D:\download D\ProductManagementDemo\ProductManagementDemo\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfo.cs
+D:\download D\ProductManagementDemo\ProductManagementDemo\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.CoreCompileInputs.cache
+D:\download D\ProductManagementDemo\ProductManagementDemo\BusinessObjects\obj\Debug\net8.0\BusinessObjects.dll
+D:\download D\ProductManagementDemo\ProductManagementDemo\BusinessObjects\obj\Debug\net8.0\refint\BusinessObjects.dll
+D:\download D\ProductManagementDemo\ProductManagementDemo\BusinessObjects\obj\Debug\net8.0\BusinessObjects.pdb
+D:\download D\ProductManagementDemo\ProductManagementDemo\BusinessObjects\obj\Debug\net8.0\ref\BusinessObjects.dll
