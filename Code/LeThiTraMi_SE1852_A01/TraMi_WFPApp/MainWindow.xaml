@@ -1,0 +1,18 @@
+﻿<Window x:Class="TraMi_WFPApp.MainWindow" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Title="Hệ thống quản lý" Height="600" Width="900" WindowStartupLocation="CenterScreen" Background="#f3f4f6" ResizeMode="CanMinimize">
+    <DockPanel>
+        <!-- Thanh Menu chính -->
+        <Menu DockPanel.Dock="Top" Background="#2c3e50" Foreground="White" FontWeight="SemiBold">
+            <MenuItem Header="Khách hàng" x:Name="menuCustomer" Click="MenuCustomer_Click"/>
+            <MenuItem Header="Sản phẩm" x:Name="menuProduct" Click="MenuProduct_OnClick"/>
+            <MenuItem Header="Đơn hàng" x:Name="menuOrder" Click="MenuOrder_OnClick"/>
+            <MenuItem Header="Báo cáo" x:Name="menuReport" Click="MenuReport_OnClick"/>
+            <MenuItem Header="Lịch sử" x:Name="menuOrderHistory" Click="MenuOrderHistory_OnClick"/>
+            <MenuItem Header="Hồ sơ" x:Name="menuProfile" Click="MenuProfile_OnClick"/>
+            <MenuItem Header="Đăng xuất" Click="MenuLogout_Click"/>
+        </Menu>
+        <!--  hiển thị nội dung chuyển đổi -->
+        <Border Background="White" Margin="10" CornerRadius="8" BorderBrush="#ddd" BorderThickness="1">
+            <ContentControl x:Name="MainContent"/>
+        </Border>
+    </DockPanel>
+</Window>

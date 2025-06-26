@@ -1,0 +1,533 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF9753B-D2BD-4B99-8714-1DC472C6AEF7}|TraMi_WFPApp\\WFPApp.csproj|d:\\download d\\lethitrami_se1852_a01\\lethitrami_se1852_a01\\trami_wfpapp\\ordermanagementcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DF9753B-D2BD-4B99-8714-1DC472C6AEF7}|TraMi_WFPApp\\WFPApp.csproj|solutionrelative:trami_wfpapp\\ordermanagementcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38664DD-57EA-4A09-BB57-694A4DAF836D}|DataAccessLayer\\DataAccessLayer.csproj|d:\\download d\\lethitrami_se1852_a01\\lethitrami_se1852_a01\\dataaccesslayer\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E38664DD-57EA-4A09-BB57-694A4DAF836D}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705B735D-B123-40A2-BC64-D5930CF05E71}|Services\\Services.csproj|d:\\download d\\lethitrami_se1852_a01\\lethitrami_se1852_a01\\services\\iproductservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705B735D-B123-40A2-BC64-D5930CF05E71}|Services\\Services.csproj|solutionrelative:services\\iproductservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705B735D-B123-40A2-BC64-D5930CF05E71}|Services\\Services.csproj|d:\\download d\\lethitrami_se1852_a01\\lethitrami_se1852_a01\\services\\iorderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705B735D-B123-40A2-BC64-D5930CF05E71}|Services\\Services.csproj|solutionrelative:services\\iorderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705B735D-B123-40A2-BC64-D5930CF05E71}|Services\\Services.csproj|d:\\download d\\lethitrami_se1852_a01\\lethitrami_se1852_a01\\services\\icustomerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705B735D-B123-40A2-BC64-D5930CF05E71}|Services\\Services.csproj|solutionrelative:services\\icustomerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705B735D-B123-40A2-BC64-D5930CF05E71}|Services\\Services.csproj|d:\\download d\\lethitrami_se1852_a01\\lethitrami_se1852_a01\\services\\employeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705B735D-B123-40A2-BC64-D5930CF05E71}|Services\\Services.csproj|solutionrelative:services\\employeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705B735D-B123-40A2-BC64-D5930CF05E71}|Services\\Services.csproj|d:\\download d\\lethitrami_se1852_a01\\lethitrami_se1852_a01\\services\\customerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705B735D-B123-40A2-BC64-D5930CF05E71}|Services\\Services.csproj|solutionrelative:services\\customerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30CFA74E-88CE-432B-90D1-AF0369F73716}|Repositories\\Repositories.csproj|d:\\download d\\lethitrami_se1852_a01\\lethitrami_se1852_a01\\repositories\\productrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30CFA74E-88CE-432B-90D1-AF0369F73716}|Repositories\\Repositories.csproj|solutionrelative:repositories\\productrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30CFA74E-88CE-432B-90D1-AF0369F73716}|Repositories\\Repositories.csproj|d:\\download d\\lethitrami_se1852_a01\\lethitrami_se1852_a01\\repositories\\orderrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30CFA74E-88CE-432B-90D1-AF0369F73716}|Repositories\\Repositories.csproj|solutionrelative:repositories\\orderrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30CFA74E-88CE-432B-90D1-AF0369F73716}|Repositories\\Repositories.csproj|d:\\download d\\lethitrami_se1852_a01\\lethitrami_se1852_a01\\repositories\\iproductrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30CFA74E-88CE-432B-90D1-AF0369F73716}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iproductrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30CFA74E-88CE-432B-90D1-AF0369F73716}|Repositories\\Repositories.csproj|d:\\download d\\lethitrami_se1852_a01\\lethitrami_se1852_a01\\repositories\\iorderrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30CFA74E-88CE-432B-90D1-AF0369F73716}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iorderrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30CFA74E-88CE-432B-90D1-AF0369F73716}|Repositories\\Repositories.csproj|d:\\download d\\lethitrami_se1852_a01\\lethitrami_se1852_a01\\repositories\\icustomerrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30CFA74E-88CE-432B-90D1-AF0369F73716}|Repositories\\Repositories.csproj|solutionrelative:repositories\\icustomerrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30CFA74E-88CE-432B-90D1-AF0369F73716}|Repositories\\Repositories.csproj|d:\\download d\\lethitrami_se1852_a01\\lethitrami_se1852_a01\\repositories\\employeerepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30CFA74E-88CE-432B-90D1-AF0369F73716}|Repositories\\Repositories.csproj|solutionrelative:repositories\\employeerepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30CFA74E-88CE-432B-90D1-AF0369F73716}|Repositories\\Repositories.csproj|d:\\download d\\lethitrami_se1852_a01\\lethitrami_se1852_a01\\repositories\\customerrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30CFA74E-88CE-432B-90D1-AF0369F73716}|Repositories\\Repositories.csproj|solutionrelative:repositories\\customerrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38664DD-57EA-4A09-BB57-694A4DAF836D}|DataAccessLayer\\DataAccessLayer.csproj|d:\\download d\\lethitrami_se1852_a01\\lethitrami_se1852_a01\\dataaccesslayer\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E38664DD-57EA-4A09-BB57-694A4DAF836D}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38664DD-57EA-4A09-BB57-694A4DAF836D}|DataAccessLayer\\DataAccessLayer.csproj|d:\\download d\\lethitrami_se1852_a01\\lethitrami_se1852_a01\\dataaccesslayer\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E38664DD-57EA-4A09-BB57-694A4DAF836D}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464DF01A-6527-45DE-9905-20CAA5969A13}|BusinessObjects\\BusinessObjects.csproj|d:\\download d\\lethitrami_se1852_a01\\lethitrami_se1852_a01\\businessobjects\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{464DF01A-6527-45DE-9905-20CAA5969A13}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464DF01A-6527-45DE-9905-20CAA5969A13}|BusinessObjects\\BusinessObjects.csproj|d:\\download d\\lethitrami_se1852_a01\\lethitrami_se1852_a01\\businessobjects\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{464DF01A-6527-45DE-9905-20CAA5969A13}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38664DD-57EA-4A09-BB57-694A4DAF836D}|DataAccessLayer\\DataAccessLayer.csproj|d:\\download d\\lethitrami_se1852_a01\\lethitrami_se1852_a01\\dataaccesslayer\\employeedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E38664DD-57EA-4A09-BB57-694A4DAF836D}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\employeedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF9753B-D2BD-4B99-8714-1DC472C6AEF7}|TraMi_WFPApp\\WFPApp.csproj|d:\\download d\\lethitrami_se1852_a01\\lethitrami_se1852_a01\\trami_wfpapp\\customerdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DF9753B-D2BD-4B99-8714-1DC472C6AEF7}|TraMi_WFPApp\\WFPApp.csproj|solutionrelative:trami_wfpapp\\customerdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF9753B-D2BD-4B99-8714-1DC472C6AEF7}|TraMi_WFPApp\\WFPApp.csproj|d:\\download d\\lethitrami_se1852_a01\\lethitrami_se1852_a01\\trami_wfpapp\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DF9753B-D2BD-4B99-8714-1DC472C6AEF7}|TraMi_WFPApp\\WFPApp.csproj|solutionrelative:trami_wfpapp\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF9753B-D2BD-4B99-8714-1DC472C6AEF7}|TraMi_WFPApp\\WFPApp.csproj|d:\\download d\\lethitrami_se1852_a01\\lethitrami_se1852_a01\\trami_wfpapp\\reportcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3DF9753B-D2BD-4B99-8714-1DC472C6AEF7}|TraMi_WFPApp\\WFPApp.csproj|solutionrelative:trami_wfpapp\\reportcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF9753B-D2BD-4B99-8714-1DC472C6AEF7}|TraMi_WFPApp\\WFPApp.csproj|d:\\download d\\lethitrami_se1852_a01\\lethitrami_se1852_a01\\trami_wfpapp\\profilecontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3DF9753B-D2BD-4B99-8714-1DC472C6AEF7}|TraMi_WFPApp\\WFPApp.csproj|solutionrelative:trami_wfpapp\\profilecontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF9753B-D2BD-4B99-8714-1DC472C6AEF7}|TraMi_WFPApp\\WFPApp.csproj|d:\\download d\\lethitrami_se1852_a01\\lethitrami_se1852_a01\\trami_wfpapp\\productmanagementcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3DF9753B-D2BD-4B99-8714-1DC472C6AEF7}|TraMi_WFPApp\\WFPApp.csproj|solutionrelative:trami_wfpapp\\productmanagementcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF9753B-D2BD-4B99-8714-1DC472C6AEF7}|TraMi_WFPApp\\WFPApp.csproj|d:\\download d\\lethitrami_se1852_a01\\lethitrami_se1852_a01\\trami_wfpapp\\productdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3DF9753B-D2BD-4B99-8714-1DC472C6AEF7}|TraMi_WFPApp\\WFPApp.csproj|solutionrelative:trami_wfpapp\\productdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF9753B-D2BD-4B99-8714-1DC472C6AEF7}|TraMi_WFPApp\\WFPApp.csproj|d:\\download d\\lethitrami_se1852_a01\\lethitrami_se1852_a01\\trami_wfpapp\\ordermanagementcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3DF9753B-D2BD-4B99-8714-1DC472C6AEF7}|TraMi_WFPApp\\WFPApp.csproj|solutionrelative:trami_wfpapp\\ordermanagementcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF9753B-D2BD-4B99-8714-1DC472C6AEF7}|TraMi_WFPApp\\WFPApp.csproj|d:\\download d\\lethitrami_se1852_a01\\lethitrami_se1852_a01\\trami_wfpapp\\orderhistorycontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3DF9753B-D2BD-4B99-8714-1DC472C6AEF7}|TraMi_WFPApp\\WFPApp.csproj|solutionrelative:trami_wfpapp\\orderhistorycontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF9753B-D2BD-4B99-8714-1DC472C6AEF7}|TraMi_WFPApp\\WFPApp.csproj|d:\\download d\\lethitrami_se1852_a01\\lethitrami_se1852_a01\\trami_wfpapp\\orderdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3DF9753B-D2BD-4B99-8714-1DC472C6AEF7}|TraMi_WFPApp\\WFPApp.csproj|solutionrelative:trami_wfpapp\\orderdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF9753B-D2BD-4B99-8714-1DC472C6AEF7}|TraMi_WFPApp\\WFPApp.csproj|d:\\download d\\lethitrami_se1852_a01\\lethitrami_se1852_a01\\trami_wfpapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3DF9753B-D2BD-4B99-8714-1DC472C6AEF7}|TraMi_WFPApp\\WFPApp.csproj|solutionrelative:trami_wfpapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF9753B-D2BD-4B99-8714-1DC472C6AEF7}|TraMi_WFPApp\\WFPApp.csproj|d:\\download d\\lethitrami_se1852_a01\\lethitrami_se1852_a01\\trami_wfpapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DF9753B-D2BD-4B99-8714-1DC472C6AEF7}|TraMi_WFPApp\\WFPApp.csproj|solutionrelative:trami_wfpapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF9753B-D2BD-4B99-8714-1DC472C6AEF7}|TraMi_WFPApp\\WFPApp.csproj|d:\\download d\\lethitrami_se1852_a01\\lethitrami_se1852_a01\\trami_wfpapp\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3DF9753B-D2BD-4B99-8714-1DC472C6AEF7}|TraMi_WFPApp\\WFPApp.csproj|solutionrelative:trami_wfpapp\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderManagementControl.xaml.cs",
+              "DocumentMoniker": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\TraMi_WFPApp\\OrderManagementControl.xaml.cs",
+              "RelativeDocumentMoniker": "TraMi_WFPApp\\OrderManagementControl.xaml.cs",
+              "ToolTip": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\TraMi_WFPApp\\OrderManagementControl.xaml.cs",
+              "RelativeToolTip": "TraMi_WFPApp\\OrderManagementControl.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T12:45:49.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CustomerDialog.xaml.cs",
+              "DocumentMoniker": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\TraMi_WFPApp\\CustomerDialog.xaml.cs",
+              "RelativeDocumentMoniker": "TraMi_WFPApp\\CustomerDialog.xaml.cs",
+              "ToolTip": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\TraMi_WFPApp\\CustomerDialog.xaml.cs",
+              "RelativeToolTip": "TraMi_WFPApp\\CustomerDialog.xaml.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwBMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T12:45:09.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "loginWindow.xaml.cs",
+              "DocumentMoniker": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\TraMi_WFPApp\\loginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TraMi_WFPApp\\loginWindow.xaml.cs",
+              "ToolTip": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\TraMi_WFPApp\\loginWindow.xaml.cs",
+              "RelativeToolTip": "TraMi_WFPApp\\loginWindow.xaml.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAYwGoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T12:43:29.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ReportControl.xaml",
+              "DocumentMoniker": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\TraMi_WFPApp\\ReportControl.xaml",
+              "RelativeDocumentMoniker": "TraMi_WFPApp\\ReportControl.xaml",
+              "ToolTip": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\TraMi_WFPApp\\ReportControl.xaml",
+              "RelativeToolTip": "TraMi_WFPApp\\ReportControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-26T12:42:30.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProfileControl.xaml",
+              "DocumentMoniker": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\TraMi_WFPApp\\ProfileControl.xaml",
+              "RelativeDocumentMoniker": "TraMi_WFPApp\\ProfileControl.xaml",
+              "ToolTip": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\TraMi_WFPApp\\ProfileControl.xaml",
+              "RelativeToolTip": "TraMi_WFPApp\\ProfileControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-26T12:42:13.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductManagementControl.xaml",
+              "DocumentMoniker": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\TraMi_WFPApp\\ProductManagementControl.xaml",
+              "RelativeDocumentMoniker": "TraMi_WFPApp\\ProductManagementControl.xaml",
+              "ToolTip": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\TraMi_WFPApp\\ProductManagementControl.xaml",
+              "RelativeToolTip": "TraMi_WFPApp\\ProductManagementControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-26T12:41:18.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductDialog.xaml",
+              "DocumentMoniker": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\TraMi_WFPApp\\ProductDialog.xaml",
+              "RelativeDocumentMoniker": "TraMi_WFPApp\\ProductDialog.xaml",
+              "ToolTip": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\TraMi_WFPApp\\ProductDialog.xaml",
+              "RelativeToolTip": "TraMi_WFPApp\\ProductDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-26T12:41:10.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OrderManagementControl.xaml",
+              "DocumentMoniker": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\TraMi_WFPApp\\OrderManagementControl.xaml",
+              "RelativeDocumentMoniker": "TraMi_WFPApp\\OrderManagementControl.xaml",
+              "ToolTip": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\TraMi_WFPApp\\OrderManagementControl.xaml",
+              "RelativeToolTip": "TraMi_WFPApp\\OrderManagementControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-26T12:40:02.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OrderHistoryControl.xaml",
+              "DocumentMoniker": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\TraMi_WFPApp\\OrderHistoryControl.xaml",
+              "RelativeDocumentMoniker": "TraMi_WFPApp\\OrderHistoryControl.xaml",
+              "ToolTip": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\TraMi_WFPApp\\OrderHistoryControl.xaml",
+              "RelativeToolTip": "TraMi_WFPApp\\OrderHistoryControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-26T12:39:59.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "OrderDialog.xaml",
+              "DocumentMoniker": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\TraMi_WFPApp\\OrderDialog.xaml",
+              "RelativeDocumentMoniker": "TraMi_WFPApp\\OrderDialog.xaml",
+              "ToolTip": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\TraMi_WFPApp\\OrderDialog.xaml",
+              "RelativeToolTip": "TraMi_WFPApp\\OrderDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-26T12:39:53.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\TraMi_WFPApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TraMi_WFPApp\\MainWindow.xaml",
+              "ToolTip": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\TraMi_WFPApp\\MainWindow.xaml",
+              "RelativeToolTip": "TraMi_WFPApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-26T12:38:25.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\TraMi_WFPApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TraMi_WFPApp\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\TraMi_WFPApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "TraMi_WFPApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T12:38:21.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\TraMi_WFPApp\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "TraMi_WFPApp\\LoginWindow.xaml",
+              "ToolTip": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\TraMi_WFPApp\\LoginWindow.xaml",
+              "RelativeToolTip": "TraMi_WFPApp\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-26T12:36:03.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductRepositories.cs",
+              "DocumentMoniker": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\Repositories\\ProductRepositories.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductRepositories.cs",
+              "ToolTip": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\Repositories\\ProductRepositories.cs",
+              "RelativeToolTip": "Repositories\\ProductRepositories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T12:30:56.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderRepositories.cs",
+              "DocumentMoniker": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\Repositories\\OrderRepositories.cs",
+              "RelativeDocumentMoniker": "Repositories\\OrderRepositories.cs",
+              "ToolTip": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\Repositories\\OrderRepositories.cs",
+              "RelativeToolTip": "Repositories\\OrderRepositories.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T12:30:26.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerDAO.cs",
+              "DocumentMoniker": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\DataAccessLayer\\CustomerDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\CustomerDAO.cs",
+              "ToolTip": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\DataAccessLayer\\CustomerDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\CustomerDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T11:39:21.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IOrderServices.cs",
+              "DocumentMoniker": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\Services\\IOrderServices.cs",
+              "RelativeDocumentMoniker": "Services\\IOrderServices.cs",
+              "ToolTip": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\Services\\IOrderServices.cs",
+              "RelativeToolTip": "Services\\IOrderServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T12:33:32.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICustomerServices.cs",
+              "DocumentMoniker": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\Services\\ICustomerServices.cs",
+              "RelativeDocumentMoniker": "Services\\ICustomerServices.cs",
+              "ToolTip": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\Services\\ICustomerServices.cs",
+              "RelativeToolTip": "Services\\ICustomerServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T12:33:19.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeServices.cs",
+              "DocumentMoniker": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\Services\\EmployeeServices.cs",
+              "RelativeDocumentMoniker": "Services\\EmployeeServices.cs",
+              "ToolTip": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\Services\\EmployeeServices.cs",
+              "RelativeToolTip": "Services\\EmployeeServices.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T12:31:54.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerServices.cs",
+              "DocumentMoniker": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\Services\\CustomerServices.cs",
+              "RelativeDocumentMoniker": "Services\\CustomerServices.cs",
+              "ToolTip": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\Services\\CustomerServices.cs",
+              "RelativeToolTip": "Services\\CustomerServices.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowB4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T12:31:25.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductServices.cs",
+              "DocumentMoniker": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\Services\\IProductServices.cs",
+              "RelativeDocumentMoniker": "Services\\IProductServices.cs",
+              "ToolTip": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\Services\\IProductServices.cs",
+              "RelativeToolTip": "Services\\IProductServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T12:33:40.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IProductRepositories.cs",
+              "DocumentMoniker": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\Repositories\\IProductRepositories.cs",
+              "RelativeDocumentMoniker": "Repositories\\IProductRepositories.cs",
+              "ToolTip": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\Repositories\\IProductRepositories.cs",
+              "RelativeToolTip": "Repositories\\IProductRepositories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T12:30:14.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IOrderRepositories.cs",
+              "DocumentMoniker": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\Repositories\\IOrderRepositories.cs",
+              "RelativeDocumentMoniker": "Repositories\\IOrderRepositories.cs",
+              "ToolTip": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\Repositories\\IOrderRepositories.cs",
+              "RelativeToolTip": "Repositories\\IOrderRepositories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T12:30:05.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICustomerRepositories.cs",
+              "DocumentMoniker": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\Repositories\\ICustomerRepositories.cs",
+              "RelativeDocumentMoniker": "Repositories\\ICustomerRepositories.cs",
+              "ToolTip": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\Repositories\\ICustomerRepositories.cs",
+              "RelativeToolTip": "Repositories\\ICustomerRepositories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T12:29:46.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeRepositories.cs",
+              "DocumentMoniker": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\Repositories\\EmployeeRepositories.cs",
+              "RelativeDocumentMoniker": "Repositories\\EmployeeRepositories.cs",
+              "ToolTip": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\Repositories\\EmployeeRepositories.cs",
+              "RelativeToolTip": "Repositories\\EmployeeRepositories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T12:29:00.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerRepositories.cs",
+              "DocumentMoniker": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\Repositories\\CustomerRepositories.cs",
+              "RelativeDocumentMoniker": "Repositories\\CustomerRepositories.cs",
+              "ToolTip": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\Repositories\\CustomerRepositories.cs",
+              "RelativeToolTip": "Repositories\\CustomerRepositories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T12:28:22.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductDAO.cs",
+              "DocumentMoniker": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\DataAccessLayer\\ProductDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\ProductDAO.cs",
+              "ToolTip": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\DataAccessLayer\\ProductDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\ProductDAO.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T12:20:01.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EmployeeDAO.cs",
+              "DocumentMoniker": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\DataAccessLayer\\EmployeeDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\EmployeeDAO.cs",
+              "ToolTip": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\DataAccessLayer\\EmployeeDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\EmployeeDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T12:04:57.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoryDAO.cs",
+              "DocumentMoniker": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\DataAccessLayer\\CategoryDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\CategoryDAO.cs",
+              "ToolTip": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\DataAccessLayer\\CategoryDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\CategoryDAO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T11:23:58.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\BusinessObjects\\Product.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Product.cs",
+              "ToolTip": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\BusinessObjects\\Product.cs",
+              "RelativeToolTip": "BusinessObjects\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T11:23:32.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\BusinessObjects\\Customer.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Customer.cs",
+              "ToolTip": "D:\\download D\\LeThiTraMi_SE1852_A01\\LeThiTraMi_SE1852_A01\\BusinessObjects\\Customer.cs",
+              "RelativeToolTip": "BusinessObjects\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T11:23:17.942Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
