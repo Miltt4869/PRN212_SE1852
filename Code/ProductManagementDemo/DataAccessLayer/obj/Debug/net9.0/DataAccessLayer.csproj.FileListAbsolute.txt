@@ -1,0 +1,30 @@
+D:\DOC\ky5\PRN212\Code trong lop\ProductManagementDemo\DataAccessLayer\bin\Debug\net9.0\DataAccessLayer.deps.json
+D:\DOC\ky5\PRN212\Code trong lop\ProductManagementDemo\DataAccessLayer\bin\Debug\net9.0\DataAccessLayer.dll
+D:\DOC\ky5\PRN212\Code trong lop\ProductManagementDemo\DataAccessLayer\bin\Debug\net9.0\DataAccessLayer.pdb
+D:\DOC\ky5\PRN212\Code trong lop\ProductManagementDemo\DataAccessLayer\bin\Debug\net9.0\BusinessObjects.dll
+D:\DOC\ky5\PRN212\Code trong lop\ProductManagementDemo\DataAccessLayer\bin\Debug\net9.0\BusinessObjects.pdb
+D:\DOC\ky5\PRN212\Code trong lop\ProductManagementDemo\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\DOC\ky5\PRN212\Code trong lop\ProductManagementDemo\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOC\ky5\PRN212\Code trong lop\ProductManagementDemo\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\DOC\ky5\PRN212\Code trong lop\ProductManagementDemo\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.AssemblyInfo.cs
+D:\DOC\ky5\PRN212\Code trong lop\ProductManagementDemo\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\DOC\ky5\PRN212\Code trong lop\ProductManagementDemo\DataAccessLayer\obj\Debug\net9.0\DataAcce.E67BD773.Up2Date
+D:\DOC\ky5\PRN212\Code trong lop\ProductManagementDemo\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.dll
+D:\DOC\ky5\PRN212\Code trong lop\ProductManagementDemo\DataAccessLayer\obj\Debug\net9.0\refint\DataAccessLayer.dll
+D:\DOC\ky5\PRN212\Code trong lop\ProductManagementDemo\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.pdb
+D:\DOC\ky5\PRN212\Code trong lop\ProductManagementDemo\DataAccessLayer\obj\Debug\net9.0\ref\DataAccessLayer.dll
+C:\Users\trihi\Downloads\ProductManagementDemo\ProductManagementDemo\DataAccessLayer\bin\Debug\net9.0\DataAccessLayer.deps.json
+C:\Users\trihi\Downloads\ProductManagementDemo\ProductManagementDemo\DataAccessLayer\bin\Debug\net9.0\DataAccessLayer.dll
+C:\Users\trihi\Downloads\ProductManagementDemo\ProductManagementDemo\DataAccessLayer\bin\Debug\net9.0\DataAccessLayer.pdb
+C:\Users\trihi\Downloads\ProductManagementDemo\ProductManagementDemo\DataAccessLayer\bin\Debug\net9.0\BusinessObjects.dll
+C:\Users\trihi\Downloads\ProductManagementDemo\ProductManagementDemo\DataAccessLayer\bin\Debug\net9.0\BusinessObjects.pdb
+C:\Users\trihi\Downloads\ProductManagementDemo\ProductManagementDemo\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\trihi\Downloads\ProductManagementDemo\ProductManagementDemo\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trihi\Downloads\ProductManagementDemo\ProductManagementDemo\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\trihi\Downloads\ProductManagementDemo\ProductManagementDemo\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\trihi\Downloads\ProductManagementDemo\ProductManagementDemo\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\trihi\Downloads\ProductManagementDemo\ProductManagementDemo\DataAccessLayer\obj\Debug\net9.0\DataAcce.E67BD773.Up2Date
+C:\Users\trihi\Downloads\ProductManagementDemo\ProductManagementDemo\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.dll
+C:\Users\trihi\Downloads\ProductManagementDemo\ProductManagementDemo\DataAccessLayer\obj\Debug\net9.0\refint\DataAccessLayer.dll
+C:\Users\trihi\Downloads\ProductManagementDemo\ProductManagementDemo\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.pdb
+C:\Users\trihi\Downloads\ProductManagementDemo\ProductManagementDemo\DataAccessLayer\obj\Debug\net9.0\ref\DataAccessLayer.dll

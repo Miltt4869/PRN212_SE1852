@@ -1,0 +1,22 @@
+D:\DOC\ky5\PRN212\Code trong lop\ProductManagementDemo\BusinessObjects\bin\Debug\net9.0\BusinessObjects.deps.json
+D:\DOC\ky5\PRN212\Code trong lop\ProductManagementDemo\BusinessObjects\bin\Debug\net9.0\BusinessObjects.dll
+D:\DOC\ky5\PRN212\Code trong lop\ProductManagementDemo\BusinessObjects\bin\Debug\net9.0\BusinessObjects.pdb
+D:\DOC\ky5\PRN212\Code trong lop\ProductManagementDemo\BusinessObjects\obj\Debug\net9.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOC\ky5\PRN212\Code trong lop\ProductManagementDemo\BusinessObjects\obj\Debug\net9.0\BusinessObjects.AssemblyInfoInputs.cache
+D:\DOC\ky5\PRN212\Code trong lop\ProductManagementDemo\BusinessObjects\obj\Debug\net9.0\BusinessObjects.AssemblyInfo.cs
+D:\DOC\ky5\PRN212\Code trong lop\ProductManagementDemo\BusinessObjects\obj\Debug\net9.0\BusinessObjects.csproj.CoreCompileInputs.cache
+D:\DOC\ky5\PRN212\Code trong lop\ProductManagementDemo\BusinessObjects\obj\Debug\net9.0\BusinessObjects.dll
+D:\DOC\ky5\PRN212\Code trong lop\ProductManagementDemo\BusinessObjects\obj\Debug\net9.0\refint\BusinessObjects.dll
+D:\DOC\ky5\PRN212\Code trong lop\ProductManagementDemo\BusinessObjects\obj\Debug\net9.0\BusinessObjects.pdb
+D:\DOC\ky5\PRN212\Code trong lop\ProductManagementDemo\BusinessObjects\obj\Debug\net9.0\ref\BusinessObjects.dll
+C:\Users\trihi\Downloads\ProductManagementDemo\ProductManagementDemo\BusinessObjects\bin\Debug\net9.0\BusinessObjects.deps.json
+C:\Users\trihi\Downloads\ProductManagementDemo\ProductManagementDemo\BusinessObjects\bin\Debug\net9.0\BusinessObjects.dll
+C:\Users\trihi\Downloads\ProductManagementDemo\ProductManagementDemo\BusinessObjects\bin\Debug\net9.0\BusinessObjects.pdb
+C:\Users\trihi\Downloads\ProductManagementDemo\ProductManagementDemo\BusinessObjects\obj\Debug\net9.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trihi\Downloads\ProductManagementDemo\ProductManagementDemo\BusinessObjects\obj\Debug\net9.0\BusinessObjects.AssemblyInfoInputs.cache
+C:\Users\trihi\Downloads\ProductManagementDemo\ProductManagementDemo\BusinessObjects\obj\Debug\net9.0\BusinessObjects.AssemblyInfo.cs
+C:\Users\trihi\Downloads\ProductManagementDemo\ProductManagementDemo\BusinessObjects\obj\Debug\net9.0\BusinessObjects.csproj.CoreCompileInputs.cache
+C:\Users\trihi\Downloads\ProductManagementDemo\ProductManagementDemo\BusinessObjects\obj\Debug\net9.0\BusinessObjects.dll
+C:\Users\trihi\Downloads\ProductManagementDemo\ProductManagementDemo\BusinessObjects\obj\Debug\net9.0\refint\BusinessObjects.dll
+C:\Users\trihi\Downloads\ProductManagementDemo\ProductManagementDemo\BusinessObjects\obj\Debug\net9.0\BusinessObjects.pdb
+C:\Users\trihi\Downloads\ProductManagementDemo\ProductManagementDemo\BusinessObjects\obj\Debug\net9.0\ref\BusinessObjects.dll
